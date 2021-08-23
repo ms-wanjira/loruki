@@ -305,7 +305,7 @@ code, pre {
     color: #fff;
     padding:10px;
 }
-* Animations */
+/* animations */
 
 @keyframes slideInFromLeft {
     0% {
@@ -342,3 +342,4 @@ code, pre {
         transform: translateX(0);
     }
 }
+
